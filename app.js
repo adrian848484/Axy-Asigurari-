@@ -1,0 +1,1 @@
+document.getElementById("root").innerText = "Bun venit la Axy Asigurări!";
